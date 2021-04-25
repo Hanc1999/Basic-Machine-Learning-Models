@@ -20,3 +20,6 @@ Basic machine learning model implementations with python, referencing the book M
 
 09-EM Algorithm for Estimating Missing Entries
 
+10-SVM
+
+11-PCA
