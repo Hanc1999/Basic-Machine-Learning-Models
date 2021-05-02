@@ -23,3 +23,5 @@ Basic machine learning model implementations with python, referencing the book M
 10-SVM
 
 11-PCA
+
+12-Frequent Pattern Mining
