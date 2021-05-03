@@ -1,7 +1,7 @@
 # Basic-ML-Models
 Basic machine learning model implementations with python, referencing the book Machine Learning: A Probabilistic Perspective.
 
-## Models context:
+## Machine Learning Models context:
 01-Gaussian Interpolation
 
 02-Ridge Regression
@@ -23,5 +23,7 @@ Basic machine learning model implementations with python, referencing the book M
 10-SVM
 
 11-PCA
+
+## Data Mining Models context:
 
 12-Frequent Pattern Mining
