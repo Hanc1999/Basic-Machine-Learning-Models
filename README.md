@@ -1,5 +1,5 @@
-# Basic-ML-Models
-Basic machine learning model implementations with python, referencing the book Machine Learning: A Probabilistic Perspective.
+# Basic-ML-Models (Tutorial flavor)
+Basic machine learning model implementations in python (jupyter notebook) with detailed comments and running demos, majorly referencing the book Machine Learning: A Probabilistic Perspective.
 
 ## Machine Learning Models context:
 01-Gaussian Interpolation
