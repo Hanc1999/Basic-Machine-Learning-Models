@@ -1,5 +1,5 @@
 # Basic-ML-Models (Tutorial flavor)
-Basic machine learning model implementations in python (jupyter notebook) with detailed comments and running demos, majorly referencing the book Machine Learning: A Probabilistic Perspective.
+Basic machine learning model implementations in python (jupyter notebook) with detailed comments and running demos, majorly referencing the book Machine Learning: A Probabilistic Perspective (Kevin P. Murphy) & Data Mining Concepts and Techniques (Morgan kaufmann).
 
 ## Machine Learning Models context:
 01-Gaussian Interpolation
@@ -26,4 +26,4 @@ Basic machine learning model implementations in python (jupyter notebook) with d
 
 ## Data Mining Models context:
 
-12-Frequent Pattern Mining
+12-Frequent Pattern Mining (FP-growth+Apriori)
