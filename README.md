@@ -24,6 +24,10 @@ Basic machine learning model implementations in python (jupyter notebook) with d
 
 11-PCA
 
+12-Decision Tree & Bagging & Random Forest & Ada-Boosting (Using sklearn package)
+
+13-Clustering (K-means, Accelerated K-means, Soft K-means, Gaussian Mixture Model - Expectation Maximization)
+
 ## Data Mining Models context:
 
-12-Frequent Pattern Mining (FP-growth+Apriori)
+14-Frequent Pattern Mining (FP-growth+Apriori)
